@@ -1,0 +1,24 @@
+h1, h2, h3 {
+	padding: 5px;
+    text-align: center;
+	border: none;
+    color:rgb(66, 0, 104)
+}
+#first {
+    text-align: left;
+    color: gray;
+}
+
+p{
+    padding: 3px;
+	margin: 15px;
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+footer {
+    font-weight:bold
+}
